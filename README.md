@@ -2,7 +2,7 @@
 
 > A coder who is passionate about Hackintosh, open source, Operating systems, First Robotics Competition.
 
-<img src="https://github-readme-stats.vercel.app/api?username=mendax1234&show_icons=true&hide_border=true&icon_color=default&title_color=a0a9af" align="right">
+<img src="https://github-readme-stats.vercel.app/api?username=mendax1234&show_icons=true&hide_border=true&icon_color=4c71f2&title_color=2f80ed" align="right">
 
 - [ThinkpadX390-Opencore-EFI](https://github.com/mendax1234/ThinkpadX390-Opencore-EFI) core contributor.
 

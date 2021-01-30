@@ -2,9 +2,9 @@
 
 > A coder who is passionate about Hackintosh, open source, Operating systems, First Robotics Competition.
 
-- [ThinkpadX390-Opencore-EFI](https://github.com/mendax1234/ThinkpadX390-Opencore-EFI) core contributor.
+<img src="https://github-readme-stats.vercel.app/api?username=mendax1234&show_icons=true&hide_border=true&icon_color=default&title_color=a0a9af" align="right">
 
-[![mendax1234's GitHub stats](https://github-readme-stats.vercel.app/api?username=mendax1234)](https://github.com/anuraghazra/github-readme-stats)
+- [ThinkpadX390-Opencore-EFI](https://github.com/mendax1234/ThinkpadX390-Opencore-EFI) core contributor.
 
 **Where to find me**
 - [CSDN](https://blog.csdn.net/weixin_45498173)

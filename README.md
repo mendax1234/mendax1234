@@ -4,7 +4,7 @@
 
 - [ThinkpadX390-Opencore-EFI](https://github.com/mendax1234/ThinkpadX390-Opencore-EFI) core contributor.
 
-[![mendax1234's GitHub stats](https://github-readme-stats.vercel.app/api?username=mendax1234&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![mendax1234's GitHub stats](https://github-readme-stats.vercel.app/api?username=mendax1234)](https://github.com/anuraghazra/github-readme-stats)
 
 **Where to find me**
 - [CSDN](https://blog.csdn.net/weixin_45498173)

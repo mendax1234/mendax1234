@@ -1,7 +1,9 @@
 ### Hi there 👋， I am [mendax1234](
 
-<A coder who is passionate about web technologies and open source
-**mendax1234/mendax1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> A coder who is passionate about Hackintosh, open source, Operating systems, First Robotics Competition.
+
+[![mendax1234's GitHub stats](https://github-readme-stats.vercel.app/api?username=mendax1234)](https://github.com/anuraghazra/github-readme-stats)
+
 
 Here are some ideas to get you started:
 

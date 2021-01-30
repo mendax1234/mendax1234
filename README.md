@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋， I am [mendax1234](
 
-<!--
+<A coder who is passionate about web technologies and open source
 **mendax1234/mendax1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

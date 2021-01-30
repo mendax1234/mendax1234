@@ -7,6 +7,7 @@
 [![mendax1234's GitHub stats](https://github-readme-stats.vercel.app/api?username=mendax1234)](https://github.com/anuraghazra/github-readme-stats)
 
 **Where to find me**
+- [CSDN](https://blog.csdn.net/weixin_45498173)
 - [bbs.pcbeta](http://bbs.pcbeta.com/viewthread-1852139-1-1.html)
 
 **You are probably also looking for...**

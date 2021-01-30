@@ -2,9 +2,9 @@
 
 > A coder who is passionate about Hackintosh, open source, Operating systems, First Robotics Competition.
 
-[![mendax1234's GitHub stats](https://github-readme-stats.vercel.app/api?username=mendax1234)](https://github.com/anuraghazra/github-readme-stats)
-
 - [ThinkpadX390-Opencore-EFI](https://github.com/mendax1234/ThinkpadX390-Opencore-EFI) core contributor.
+
+[![mendax1234's GitHub stats](https://github-readme-stats.vercel.app/api?username=mendax1234)](https://github.com/anuraghazra/github-readme-stats)
 
 **Where to find me**
 - [bbs.pcbeta](http://bbs.pcbeta.com/viewthread-1852139-1-1.html)

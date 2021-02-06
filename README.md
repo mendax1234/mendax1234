@@ -10,7 +10,7 @@
 **Where to find me**
 - [My Blog](https://blog.csdn.net/weixin_45498173)
 - [bbs.pcbeta](http://bbs.pcbeta.com/viewthread-1852139-1-1.html)
-- [E-mail](mendax1234@sina.cn)
+- E-mail: mendax1234@sina.cn
 
 **You are probably also looking for...**
 - I am using  [Hackintosh](https://en.wikipedia.org/wiki/Hackintosh) in my leisure time, here is [my EFI for ThinkPad X390 (39CD)](https://github.com/mendax1234/ThinkpadX390-Opencore-EFI)

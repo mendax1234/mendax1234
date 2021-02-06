@@ -14,3 +14,6 @@
 **You are probably also looking for...**
 - I am using  [Hackintosh](https://en.wikipedia.org/wiki/Hackintosh) in my leisure time, here is [my EFI for ThinkPad X390 (39CD)](https://github.com/mendax1234/ThinkpadX390-Opencore-EFI)
 - I also maintain  [ThinkPad E40's EFI](https://github.com/mendax1234/ThinkPadE40-Clover-EFI),but I didn't use this notebook any more, because it is too old!
+
+**Email**
+- mendax1234@sina.cn

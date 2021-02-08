@@ -11,14 +11,14 @@
 
 - [My Blog](https://blog.csdn.net/weixin_45498173)
 - [bbs.pcbeta](http://bbs.pcbeta.com/viewthread-1852139-1-1.html)
+- [51NB](https://www.51nb.com/home.php?mod=space&uid=2016944&do=profile)
 - E-mail: mendax1234@sina.cn
 
 **You are probably also looking for...**
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendax1234&layout=compact" align="right">
 
-- I am using  [Hackintosh](https://en.wikipedia.org/wiki/Hackintosh) in my leisure time, here is [my EFI for ThinkPad X390](https://github.com/mendax1234/ThinkpadX390-Opencore-EFI).This is also my main working machine.
+- I am using  [Hackintosh](https://en.wikipedia.org/wiki/Hackintosh) in my leisure time, here is [my EFI for ThinkPad X390](https://github.com/mendax1234/ThinkpadX390-Opencore-EFI). This is also my main working machine.However ,l use Windows 10 as my daily Operating System.
 - I also maintain  [ThinkPad E40's EFI](https://github.com/mendax1234/ThinkPadE40-Clover-EFI), but I didn't use this notebook any more, because it is too old!
-
 
 <a href="https://github.com/mendax1234/ThinkpadX390-Opencore-EFI">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->

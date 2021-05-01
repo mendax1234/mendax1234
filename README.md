@@ -1,5 +1,7 @@
 ### Hi there 👋， I am [mendax1234](https://github.com/mendax1234)
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=mendax1234.mendax1234)
+
 > A coder who is passionate about Hackintosh, Operating systems, First Robotics Competition, Lego Mindstorms EV3/NXT.
 
 <img src="https://github-readme-stats.vercel.app/api?username=mendax1234&show_icons=true&hide_border=true&icon_color=4c71f2&title_color=2f80ed" align="right">

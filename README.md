@@ -16,6 +16,13 @@
 - [51NB](https://www.51nb.com/home.php?mod=space&uid=2016944&do=profile)
 - E-mail: mendax1234@sina.cn
 
+**Tech preferences**
+
+| |                       |                                                           |
+|-|-----------------------|-----------------------------------------------------------|
+|🖥| **Operating System** | Windows 10 & macOS(Hackintosh)                             |
+
+
 **You are probably also looking for...**
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendax1234&layout=compact" align="right">
 

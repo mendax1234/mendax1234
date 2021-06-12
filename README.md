@@ -11,7 +11,7 @@
 
 **Where to find me**
 
-- [My Blog](https://blog.csdn.net/weixin_45498173)
+- [My Blog](https://mendax1234.github.io/)
 - [bbs.pcbeta](http://bbs.pcbeta.com/viewthread-1852139-1-1.html)
 - [51NB](https://www.51nb.com/home.php?mod=space&uid=2016944&do=profile)
 - E-mail: mendax1234@sina.cn

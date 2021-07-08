@@ -20,7 +20,7 @@
 
 | |                       |                                                           |
 |-|-----------------------|-----------------------------------------------------------|
-|🖥| **Operating System** | Windows 10 & macOS(Hackintosh)                             |
+|🖥| **Operating System** | Windows 11 & macOS(Hackintosh)                             |
 
 
 **You are probably also looking for...**

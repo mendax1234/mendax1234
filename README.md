@@ -20,13 +20,13 @@
 
 | |                       |                                                           |
 |-|-----------------------|-----------------------------------------------------------|
-|🖥| **Operating System** | Windows 11 & macOS(Hackintosh)                             |
+|🖥| **Operating System** | Windows 10 Pro & macOS(Hackintosh)                             |
 
 
 **You are probably also looking for...**
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendax1234&layout=compact" align="right">
 
-- I am using  [Hackintosh](https://en.wikipedia.org/wiki/Hackintosh) in my leisure time, here is [my EFI for ThinkPad X390](https://github.com/mendax1234/ThinkpadX390-Opencore-EFI). This is also my main working machine. However ,l use Windows 10 as my daily and main Operating System.
+- I am using  [Hackintosh](https://en.wikipedia.org/wiki/Hackintosh) in my leisure time, here is [my EFI for ThinkPad X390](https://github.com/mendax1234/ThinkpadX390-Opencore-EFI). ThinkPad X390 is also my main working machine. However ,l use Windows 10 as my daily and main Operating System.
 - I also maintain  [ThinkPad E40's EFI](https://github.com/mendax1234/ThinkPadE40-Clover-EFI), but I didn't use this notebook any more, because it is too old!
 - If you want to support me , plesase turn to [Support](https://github.com/mendax1234/Pi-introduction).
 

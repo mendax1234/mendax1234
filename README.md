@@ -13,9 +13,9 @@
 **Where to find me**
 
 - [My Blog](https://mendax1234.github.io/)
+- [Chief Delphi](https://www.chiefdelphi.com/u/mendax1234/summary)
 - [bbs.pcbeta](http://bbs.pcbeta.com/viewthread-1852139-1-1.html)
 - [51NB](https://www.51nb.com/home.php?mod=space&uid=2016944&do=profile)
-- [Chief Delphi](https://www.chiefdelphi.com/u/mendax1234/summary)
 - E-mail: mendax1234@sina.cn
 
 **Tech preferences**

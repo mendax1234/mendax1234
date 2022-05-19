@@ -1,4 +1,4 @@
-### Hi there 👋， I am [mendax1234](https://github.com/mendax1234)
+### Hi there 👋， I am [Daniel Webber(mendax1234)](https://github.com/mendax1234)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mendax1234.mendax1234)
 

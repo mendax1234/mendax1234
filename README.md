@@ -6,9 +6,9 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=mendax1234&show_icons=true&hide_border=true&icon_color=4c71f2&title_color=2f80ed" align="right">
 
+- [FRC Team 6940](https://github.com/Team6940) Program/Software Lead.
 - [ThinkPadX390-Opencore-EFI](https://github.com/mendax1234/ThinkpadX390-Opencore-EFI) founder and core contributor.
 - [ThinkPadE40-Clover-EFI](https://github.com/mendax1234/ThinkPadE40-Clover-EFI) founder and core contributer.
-- [FRC Team 6940](https://github.com/Team6940) Program/Software Lead.
 
 **Where to find me**
 

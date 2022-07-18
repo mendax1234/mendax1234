@@ -16,7 +16,7 @@
 - [Chief Delphi](https://www.chiefdelphi.com/u/mendax1234/summary)
 - [bbs.pcbeta](http://bbs.pcbeta.com/viewthread-1852139-1-1.html)
 - [51NB](https://www.51nb.com/home.php?mod=space&uid=2016944&do=profile)
-- E-mail: mendax1234@sina.cn
+- E-mail: daniel.wb.zhu@outlook.com
 
 **Tech preferences**
 

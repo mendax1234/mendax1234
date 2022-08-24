@@ -2,7 +2,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mendax1234.mendax1234)
 
-> A coder who is passionate about First Robotics Competition(FRC), Hackintosh, Operating systems, Lego Mindstorms EV3/NXT, uses Logseq to take down notes and also excels in Java/Python/Go/C/C++
+> A coder who is passionate about First Robotics Competition(FRC), Hackintosh, Operating systems, Lego Mindstorms EV3/NXT, uses Logseq to take notes and also excels in Java/Python/Go/C/C++
 
 <img src="https://github-readme-stats.vercel.app/api?username=mendax1234&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" align="right">
 

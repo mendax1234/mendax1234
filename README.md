@@ -27,7 +27,7 @@
 **You are probably also looking for...**
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendax1234&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" align="right">
 
-- If you want to have a look at FRC Team 6940's robot code, you can go to FRC Team 6940's [Official Github Page](https://github.com/Team6940)
-- I am using  [Hackintosh](https://en.wikipedia.org/wiki/Hackintosh) in my leisure time, here is [my EFI for ThinkPad X390](https://github.com/mendax1234/ThinkpadX390-Opencore-EFI). ThinkPad X390 is also my main working machine. However ,l use Windows 10 Pro as my daily and main Operating System.
-- I also maintain  [ThinkPad E40's EFI](https://github.com/mendax1234/ThinkPadE40-Clover-EFI), but I didn't use this laptop any more, because it is too old!
-- If you want to support me , plesase turn to [Support](https://github.com/mendax1234/Pi-introduction).
+- To view FRC Team 6940's robot code, go to FRC Team 6940's [Official Github Page]. (https://github.com/Team6940)
+- In my spare time, I use [Hackintosh](https://en.wikipedia.org/wiki/Hackintosh), and here is [my EFI for ThinkPad X390]. (https://github.com/mendax1234/ThinkpadX390-Opencore-EFI). My primary working machine is also a ThinkPad X390. However, I use Windows 10 Pro as my primary operating system.
+- I also maintain the EFI for the [ThinkPad E40](https://github.com/mendax1234/ThinkPadE40-Clover-EFI), but I no longer use this laptop because it is too old!
+- If you want to help, go to [Support](https://github.com/mendax1234/Pi-introduction).

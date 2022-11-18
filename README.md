@@ -6,7 +6,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=mendax1234&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" align="right">
 
-- [FRC Team 6940](https://github.com/Team6940) Program/Software Lead.
+- [FRC Team 6940](https://github.com/Team6940) Program/Software Lead. (2020-2022)
 - [6940Swerve-docs](https://github.com/mendax1234/6940Swerve-docs) founder and core contributor.
 - [logseq-cusgit-theme](https://github.com/mendax1234/logseq-cusgit-theme) founder and core contributor.
 - [ThinkPadX390-Opencore-EFI](https://github.com/mendax1234/ThinkpadX390-Opencore-EFI) founder and core contributor.

@@ -1,6 +1,7 @@
 ### Hi there 👋， I am [Daniel Webber(mendax1234)](https://github.com/mendax1234)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=mendax1234.mendax1234)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=mendax1234.mendax1234) -->
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmendax1234&countColor=%23263759)
 
 > A coder who is passionate about FIRST Robotics Competition(FRC), Hackintosh, Operating systems, Lego Mindstorms EV3/NXT, uses Logseq to take notes and also excels in Java/Python/Go/C/C++
 

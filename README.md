@@ -15,7 +15,7 @@
 
 **Where to find me**
 
-- [My Blog](mendax1234.me)
+- [My Blog](mendax1234.gitbook.io)
 - E-mail: daniel.wb.zhu@gmail.com
 
 **Tech preferences**
@@ -31,4 +31,3 @@
 - To view FRC Team 6940's robot code, go to FRC Team 6940's [Official Github Page](https://github.com/Team6940)
 - In my spare time, I use [Hackintosh](https://en.wikipedia.org/wiki/Hackintosh), and here is [my EFI for ThinkPad X390](https://github.com/mendax1234/ThinkpadX390-Opencore-EFI). My primary working machine is also a ThinkPad X390. However, I use Windows 11 Pro as my primary operating system.
 - I also maintain the EFI for the [ThinkPad E40](https://github.com/mendax1234/ThinkPadE40-Clover-EFI), but I no longer use this laptop because it is too old!
-- If you want to help, go to [Support](https://github.com/mendax1234/Pi-introduction).

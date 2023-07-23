@@ -15,7 +15,7 @@
 
 **Where to find me**
 
-- [My Blog](https://mendax1234.gitbook.io/)
+- [My Blog](https://mendax1234.github.io/)
 - E-mail: daniel.wb.zhu@gmail.com
 
 **Tech preferences**

@@ -15,7 +15,7 @@
 
 **Where to find me**
 
-- [My Bio](https://linktr.ee/mendax1234)
+- [My Bio](https://mendax1234.github.io/)
 - E-mail: daniel.wb.zhu@gmail.com
 
 **Tech preferences**

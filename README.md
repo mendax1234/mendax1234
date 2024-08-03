@@ -1,4 +1,4 @@
-### Hi there 👋， I am [Daniel Wenbo(mendax1234)](https://github.com/mendax1234)
+### Hi there 👋， I am [Wenbo (Daniel) Zhu](https://github.com/mendax1234)
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=mendax1234.mendax1234) -->
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmendax1234&countColor=%23263759)

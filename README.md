@@ -3,7 +3,7 @@
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=mendax1234.mendax1234) -->
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmendax1234&countColor=%23263759)
 
-> A coder who is passionate about FIRST Robotics Competition(FRC), Hackintosh, Operating systems, Lego Mindstorms EV3/NXT, uses Latex and Markdown to take notes and also excels in C/C++/ava/Python/Go.
+> A coder who is passionate about FIRST Robotics Competition(FRC), Hackintosh, Operating systems, Lego Mindstorms EV3/NXT, uses LaTeX and Markdown to take notes and also excels in C/C++/ava/Python/Go.
 
 <img src="https://github-readme-stats.vercel.app/api?username=mendax1234&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" align="right">
 

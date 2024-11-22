@@ -5,7 +5,7 @@
 
 > A coder who is passionate about circuits, robotics, maths, and physics, uses LaTeX and Markdown to take notes and excels in C/C++/Java/Python/Go.
 
-<img src="https://github-readme-stats.vercel.app/api?username=mendax1234&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" align="right">
+<img src="https://github-readme-stats.vercel.app/api?username=mendax1234&theme=catppuccin_mocha&show_icons=true" align="right">
 
 - [FRC Team 6940](https://github.com/Team6940) Program/Software Lead. (2020-2022)
 - [6940Swerve-docs](https://github.com/mendax1234/6940Swerve-docs) founder and core contributor.
@@ -26,7 +26,7 @@
 
 
 **You are probably also looking for...**
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendax1234&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendax1234&theme=catppuccin_mocha&langs_count=3" align="right">
 
 - To view FRC Team 6940's robot code, go to FRC Team 6940's [Official Github Page](https://github.com/Team6940)
 - In my spare time, I use [Hackintosh](https://en.wikipedia.org/wiki/Hackintosh), and here is [my EFI for ThinkPad X390](https://github.com/mendax1234/ThinkpadX390-Opencore-EFI). My primary working machine is also a ThinkPad X390. However, I use Windows 11 Pro as my primary operating system.

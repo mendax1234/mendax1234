@@ -1,9 +1,6 @@
 name: Update README cards
 
-"on":
-  push:
-    branches:
-      - main
+on:
   schedule:
     - cron: "0 3 * * *"
   workflow_dispatch:
@@ -16,8 +13,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
       - name: Create output directory
         run: mkdir -p profile

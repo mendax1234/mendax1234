@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Wenbo (Daniel) Zhu's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 115, Total Commits  (last year) : 1090, Total PRs: 94, Total Issues: 239, Contributed to (last year): 8</desc>
+        <desc id="descId">Total Stars Earned: 115, Total Commits  (last year) : 1094, Total PRs: 94, Total Issues: 239, Contributed to (last year): 8</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 48.887916569218525;
+        stroke-dashoffset: 48.86541891395895;
       }
     }
   
